@@ -1,0 +1,72 @@
+.block{
+    display: flex;
+    justify-self: start;
+    margin-bottom: 300px;
+    height: 700px;
+    color:#333;
+}
+
+.left{
+    width: 60%;
+    margin-left: 0px;
+    
+}
+.right{
+    width: 30%;
+    padding: 60px;
+    margin: 10px;
+    height: 590px;
+}
+
+
+
+.logo{
+    width: 100px;
+    position: relative;
+    bottom: 460px;
+    left: 55px;
+}
+
+.sample1{
+        width: 465px;
+        position: relative;
+        left: 280px;
+        top: 140px;
+        height: 590px;
+}
+
+ul{
+    list-style: none;
+
+}
+.button{
+    width: 101%;
+    height: 65px;
+background-color: #333;
+color: snow;
+margin-top: 40px;
+}
+.list{
+    position: relative;
+    right: 40px;
+    width: 110%;
+}
+
+.nav1{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav{
+    width: 50%;
+    display: flex;
+    justify-content: left;
+}
+
+.navbar{
+    display: flex;
+}
+
+.nav-item{
+    padding: 18px;
+}
